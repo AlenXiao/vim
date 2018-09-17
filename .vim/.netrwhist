@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/hal/.ssh'
+let g:netrw_dirhist_2='/home/hal/works/backport-iwlwifi/net/mac80211'
+let g:netrw_dirhist_3='/sys/kernel/debug/iwlwifi/0000:04:00.0/iwlmvm/netdev:wlp4s0'
+let g:netrw_dirhist_4='/home/hal/works/backport-iwlwifi/drivers/net/wireless/intel/iwlwifi'
+let g:netrw_dirhist_5='/home/hal/works/linux/include/config/iwlwifi'
